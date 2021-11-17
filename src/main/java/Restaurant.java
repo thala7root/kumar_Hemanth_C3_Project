@@ -70,7 +70,7 @@ public class Restaurant {
 
     }
 
-      /*  public Integer calculateOrderTotal(int... inputs) {
+       public Integer calculateOrderTotal(int... inputs) {
             int orderTotal = 0;
             for(int i = 0; i<inputs.length; i++)
                 orderTotal = orderTotal + inputs[i];
@@ -78,6 +78,6 @@ public class Restaurant {
             return orderTotal;
 
 
-    }*/
+    }
 
 }
